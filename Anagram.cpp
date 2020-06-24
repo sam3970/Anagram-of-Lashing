@@ -5,7 +5,7 @@
 
 using namespace std;
 
-/* utility를 include 해야 한다고 하는데 vector 써도 되는듯.. */
+/* utility를 include 해야 한다고 하는데 vector 써도 되는듯 */
 pair<string, string> munja;
 
 /* 아나그램 판별을 위한 함수 */
